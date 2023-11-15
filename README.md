@@ -27,7 +27,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 9.Monitor the model's performance and periodically update it with new data or adjust hyperparameters as needed. 
 
 ## Program:
-
+```py
 Program to implement the SVM For Spam Mail Detection..
 Developed by: SHRIRAM.S
 RegisterNumber:212222240098
@@ -70,7 +70,7 @@ y_pred
 from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
-
+```
 ## Output:
 ## RESULT OUTPUT:
 ![image](https://github.com/Mythilidharman/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119104110/0ec7d672-7118-4d39-a751-8e411ba67b27)
